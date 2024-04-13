@@ -24,7 +24,8 @@ Multiply 100 random matrices of size 1k x 1k with a constant matrix of size 1k x
 
 ## Results
 
-| Threads | (T=1)  | (T=2)            | (T=3)            | (T=4)  | (T=5)            | [T=6]   | (T=7)            | (T=8)            |
+| Threads | (T=1)  | (T=2)            | (T=3)            | (T=4)  | (T=5)            | [T=6]   | (![graph](https://github.com/neelakshidob/Multithreading-102103766/assets/99609535/b8af876e-7ec4-4968-9023-940cf17b52e6)
+T=7)            | (T=8)            |
 |---|---|---|---|---|---|---|---|---|
 | Time taken (sec) | 1.5454 | 1.1298            | 1.2076            | 1.1918 | 1.0669            | 1.1917 | 1.1288            | 1.1922            |
 
@@ -34,7 +35,7 @@ Multiply 100 random matrices of size 1k x 1k with a constant matrix of size 1k x
 
 The time taken is minimum when the number of threads is 5.
 ## Submitted By:
-Akshita Gupta
-102103741
+Neelakshi Gupta
+102103766
 
 
